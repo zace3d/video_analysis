@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "geocoder-supercivico",
+  "private_key_id": "29f3efa73eb6ec72069b1afa0e35d57400ebb214",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCWla2NlmZ65AIw\nxVSSlZldVeZLQbqfbJYBClhvl6g5CMqsRhROFfsvGU0lBzVE94dx3PwPJHCRq2wl\n+dxFPx12th7GulqVW8ZQLfPbJKaSTGz5Y/NnH6G4sKbg3HqyBg8ICyz0+dvivxNX\naK3GaoBz04eT2XlRlVpdxgT6yp1FS+LbyA8KAHGBlCwt51tThQ4Bki6Zw/3HgYdr\nhmTpwzlYDOh1j1kQAf+BmIf2hUr0t4dmtAM0cz657dYhG7XkfNE5WhDric/KUrFg\nyVaXrxrtP+GV+uw6P445mzs5NkV8bPZ1cqZyGZTJyQmE4xnxg2cYVgRMcuyrSGqq\nOed5hZ9JAgMBAAECggEAFRcOCVpC7JvCBcghZe1PXz/gYvJn+5uW77rd83UjYaeO\nUS34eo5AEZLi19iIWKotXWBkqg9Bt9kxKqlxtP4Xt5Bew5kGhkwl/IVPFcZukOdk\nzNH3nV4UBZyyJqSih4vrL4Z3K7FR31JBGHkn+3XfmzlJUAcBo5A+KYuKF4DooXN+\nIysEVWTzrOjfe7yFjtVqtskJEtRX/hlFkVaVKzf90eNcQjZXpweIb6M9ywWWY7KL\nJE6oLd8KwbK/sToOXs84cmwYhZ1xgZ+eef6/zF1mLMmU9A4+NDdlHfV54HZ9broP\nZhim8uHY+Y3yRTATAymajGjcNxzVQW/3rj9B/2cp7QKBgQDKM9Z5hZrICSfKXQDY\nMOuIm5T/K+nJ+AZ7Cd5DkY4Is+aXvBy5Lq6onh5viFwTO0wY9nvFBdTQEJpCSLhn\nXMIg/BqmvXRvNNsCYoGw0wHLnGAx2ORcIN+cJ2qADzlyzvvLy6ZW+qkch9mpebY1\nmZmX/L90NtUDDXkS20FNw7X+HQKBgQC+phzQdZKD1DzRXG32FTve0twP8AF2lsPR\nKO4kZ3PS9BCcx6CT8lVltScfg55+JZhIqGkmN2XxhiKueXLcJ6v7pOwpxJpCGsmh\nS71NbAHvfGPGs98vnrk4hQNSrk+TtzJsZ2AboY9HYA1SDYXCbc3bWfCeJ+z1O3Y3\nMQdjt3dOHQKBgFis1SEkE5YoVbfsg4NMKO8W9AfX9UZqrETnNf9B5R0x8C2ZBKu9\nqkEuXsCg92hDuAK2jd8AyKyaq1voUl6aElSu2u1G5roiXu2zz5aBYyctJA6YRMWW\ncRolOxKAGrybw1dDr2YztVhax30IcH0fKHm8ESZhKZeWIAPB/eihrL2NAoGBAIUV\nB8Askl4b5WhwEQJayDQ/FQa7DwptK7vxymr3HE8BuCb44wrjeuFIl0rUYerE64ys\notneifcTH1qTxK4Rs2gyM/jkGJpUgLNrX3WQE7nNJwkpvn5LWhguIaexrjL7CuPJ\nNbmUCaRVVHcWoWybobuhCOoeDLcTDu5v9yyQgWOxAoGAXvuzhnYYY6FICSbpDi7p\nUx3nbR6MmcTCleUVy3DRu6zMeZNGAQoOazudIChQAR7h5MiJsIcs+Z6El0U6Rxth\nh1XMnGjzeGURo/KkUXqqs9PO7rrnVcMj+ubNUBsHP1k5V0SSQyZNed1V6YZ1wYtH\nnBOTeY6udaseduLhhrVB+gU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "supercivicos-staging@geocoder-supercivico.iam.gserviceaccount.com",
+  "client_id": "101530650727289362611",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/supercivicos-staging%40geocoder-supercivico.iam.gserviceaccount.com"
+}
