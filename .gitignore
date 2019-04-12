@@ -2,6 +2,8 @@
 *.pyc
 .vscode
 
+video_analysis/Geocoder-Supercivico-29f3efa73eb6.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
