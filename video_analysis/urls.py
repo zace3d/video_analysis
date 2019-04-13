@@ -19,4 +19,5 @@ from django.urls import path, re_path, include
 urlpatterns = [
     path('admin/', admin.site.urls),
     re_path('api/(?P<version>(v1|v2))/', include('speech_to_text.urls')),
+    re_path('api/(?P<version>(v1|v2))/', include('captions.urls')),
 ]

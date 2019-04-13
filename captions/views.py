@@ -7,14 +7,12 @@ from . import helpers
 # Create your views here.
 
 @csrf_exempt
-def convert_video(request, version):
+def video_captions(request, version):
 
     # Get video
-    video = request.FILES['video']
+    yt_video_id = request.GET['yt_video_id']
 
-    # Transcribe video and extract audio
-    response = helpers.transcribe_file(video)
+    # Extract captions from Youtube video
+    response = helpers.transcript(yt_video_id)
 
-    context = response
-
-    return JsonResponse(context, safe=False)
+    return JsonResponse(response, safe=False)
