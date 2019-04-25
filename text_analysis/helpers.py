@@ -18,7 +18,7 @@ def frequency(data):
     return freq.items()
 
 def sentiment():
-    movie_data = load_files(r'/Users/desarrollo/Desktop/review_polarity/txt_sentoken')
+    movie_data = load_files(r'~/Desktop/review_polarity/txt_sentoken')
     X, y = movie_data.data, movie_data.target
 
     documents = []
